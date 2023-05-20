@@ -13,3 +13,5 @@
 
 ## 2. [빅웨이브로보틱스 포미](./Product/BigwaveRobotics/Fome/)
 
+### 2.1. [전송 데이터 샘플](./Product/BigwaveRobotics/Fome/Test/)
+
